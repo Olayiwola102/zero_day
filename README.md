@@ -1,1 +1,1 @@
-My first readme n zero day
+**This file is mandatory in projects**
